@@ -1,0 +1,972 @@
+[
+	{
+		"_id": "62eaf2dd532277ca3b0f1bee",
+		"name": "Maxx Royal Belek Golf Resort",
+		"type": "Hotel",
+		"city": "Antalya",
+		"address": "Belek",
+		"distance": "45 km from Antalya City Center",
+		"photos": [
+			
+		],
+		"star": "Ultra",
+		"title": "Ultra All Inclusive Hotel",
+		"desc": "The hotel is located in a peaceful Mediterranean atmosphere, intertwined with nature, where you will leave the fatigue of the whole year behind.",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 1000,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 1000,
+		"featured": false,
+		"__v": 0
+	},
+	{
+		"_id": "62eb9f10f83e05ebf6f1be24",
+		"name": "Rixos Premium Belek",
+		"type": "Hotel",
+		"city": "Antalya",
+		"address": "Belek",
+		"distance": "45 km from Antalya City Center",
+		"photos": [],
+		"star": "Ultra",
+		"title": "Ultra All Inclusive Hotel",
+		"desc": "Rixos Premium Belek is located on the coast of the Mediterranean Sea, among Dec pine forest. The endless sand beaches and magnificent views of Belek make it a destination full of natural beauty.",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 900,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 900,
+		"featured": false,
+		"__v": 0
+	},
+	{
+		"_id": "62ee4f3feeb69db0a0a793dc",
+		"name": "Amara Luxury Resort & Villas",
+		"type": "Hotel",
+		"city": "Antalya",
+		"address": "Kemer",
+		"distance": "35 km from Antalya City Center",
+		"photos": [],
+		"star": "Ultra",
+		"title": "Ultra All Inclusive Hotel",
+		"desc": "The hotel is notable for its architecture and special design, offering its guests a combination of luxury and Decency.",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 3000,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 3000,
+		"featured": false,
+		"__v": 0
+	},
+	{
+		"_id": "62ee5014eeb69db0a0a793e0",
+		"name": "NG Phaselis Bay",
+		"type": "Hotel",
+		"city": "Antalya",
+		"address": "Kemer",
+		"distance": "65 km from Antalya City Center",
+		"photos": [],
+		"star": "Ultra",
+		"title": "Ultra All Inclusive Hotel",
+		"desc": "Integrated with nature, in the countryside location, personalized services, dreamy bays and much more bringing its guests with a unique holiday NG Phaselis Bay, is among the indispensable for the holidays with a friendly and energetic team..",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 3500,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 3500,
+		"featured": false,
+		"__v": 0
+	},
+	{
+		"_id": "62ee507feeb69db0a0a793e2",
+		"name": "Nirvana Dolce Vita Luxury Villas & Suites",
+		"type": "Hotel",
+		"city": "Antalya",
+		"address": "Kemer",
+		"distance": "58 km from Antalya City Center",
+		"photos": [],
+		"star": "Ultra",
+		"title": "Ultra All Inclusive Hotel",
+		"desc": "Nirvana Dolce Vita, with its beachfront location and 1 km long beach, seems to be a paradise hidden in nature.",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 7500,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 7500,
+		"featured": true,
+		"__v": 0
+	},
+	{
+		"_id": "62ee50e4eeb69db0a0a793e4",
+		"name": "Crystal Sunset Luxury Resort",
+		"type": "Hotel",
+		"city": "Antalya",
+		"address": "Manavgat",
+		"distance": "65 km from Antalya City Center",
+		"photos": [],
+		"star": "Ultra",
+		"title": "Ultra All Inclusive Hotel",
+		"desc": "We are waiting for our guests who want to have a stylish and fun holiday in our hotel.",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 2000,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 2000,
+		"featured": false,
+		"__v": 0
+	},
+	{
+		"_id": "62ee5137eeb69db0a0a793e6",
+		"name": "Paloma Finesse",
+		"type": "Hotel",
+		"city": "Antalya",
+		"address": "Manavgat",
+		"distance": "80 km from Antalya City Center",
+		"photos": [],
+		"star": "Ultra",
+		"title": "Ultra All Inclusive Hotel",
+		"desc": "Located in Antalya, the pearl of the Mediterranean Sea, Paloma Finesse offers its guests a unique holiday experience in its location, Titreyengöl, which attracts attention with its legends and natural beauty.",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 5000,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 5000,
+		"featured": true,
+		"__v": 0
+	},
+	{
+		"_id": "62ee5171eeb69db0a0a793e8",
+		"name": "Sunrise Resort Hotel",
+		"type": "Hotel",
+		"city": "Antalya",
+		"address": "Manavgat",
+		"distance": "80 km from Antalya City Center",
+		"photos": [],
+		"star": "Ultra",
+		"title": "Ultra All Inclusive Hotel",
+		"desc": "Located in Antalya, the pearl of the Mediterranean Sea, Paloma Finesse offers its guests a unique holiday experience in its location, Titreyengöl, which attracts attention with its legends and natural beauty.",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 4000,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 4000,
+		"featured": false,
+		"__v": 0
+	},
+	{
+		"_id": "62ee5243eeb69db0a0a793ec",
+		"name": "Botanik Platinum",
+		"type": "Hotel",
+		"city": "Antalya",
+		"address": "Alanya",
+		"distance": "110 km from Antalya City Center",
+		"photos": [],
+		"star": "All",
+		"title": "All Inclusive Hotel",
+		"desc": "Located among lush palm trees and colorful flowers, Botanik Platinum is located Dec the seafront.",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 1500,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 1500,
+		"featured": false,
+		"__v": 0
+	},
+	{
+		"_id": "62ee527aeeb69db0a0a793ee",
+		"name": "Kirman Arycanda De Luxe",
+		"type": "Hotel",
+		"city": "Antalya",
+		"address": "Alanya",
+		"distance": "100 km from Antalya City Center",
+		"photos": [],
+		"star": "Ultra",
+		"title": "Ultra All Inclusive Hotel",
+		"desc": "Located among lush palm trees and colorful flowers, Botanik Platinum is located Dec the seafront.",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 1300,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 1300,
+		"featured": false,
+		"__v": 0
+	},
+	{
+		"_id": "62ee5314eeb69db0a0a793f0",
+		"name": "Club Tuana Fethiye",
+		"type": "Hotel",
+		"city": "Muğla",
+		"address": "Fethiye",
+		"distance": "50 km from Muğla City Center",
+		"photos": [],
+		"star": "Ultra",
+		"title": "Ultra All Inclusive Hotel",
+		"desc": "Club Tuana Fethiye offers its services with an Ultra All-Inclusive concept.",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 1300,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 1300,
+		"featured": false,
+		"__v": 0
+	},
+	{
+		"_id": "62ee5386eeb69db0a0a793f2",
+		"name": "Yacht Boheme Hotel ",
+		"type": "Hotel",
+		"city": "Muğla",
+		"address": "Fethiye",
+		"distance": "50 km from Muğla City Center",
+		"photos": [],
+		"star": "Adults",
+		"title": "Adults Only Hotel",
+		"desc": "Adults only",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 3300,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 3300,
+		"featured": false,
+		"__v": 0
+	},
+	{
+		"_id": "62ee53aceeb69db0a0a793f4",
+		"name": "Blu Luxury Unique Hotel ",
+		"type": "Hotel",
+		"city": "Muğla",
+		"address": "Fethiye",
+		"distance": "60 km from Muğla City Center",
+		"photos": [],
+		"star": "Adults",
+		"title": "Adults Only Hotel",
+		"desc": "Adults only",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 3000,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 3000,
+		"featured": false,
+		"__v": 0
+	},
+	{
+		"_id": "62ee5472eeb69db0a0a793f6",
+		"name": "Turunç Resort Hotel",
+		"type": "Hotel",
+		"city": "Muğla",
+		"address": "Marmaris",
+		"distance": "60 km from Muğla City Center",
+		"photos": [],
+		"star": "All",
+		"title": "All Inclusive Hotel",
+		"desc": "Turunç Resort Hotel with its privileged service concept that offers a unique beach where the unique azure sea meets the golden sands, entertainment and peace.",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 4000,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 4000,
+		"featured": false,
+		"__v": 0
+	},
+	{
+		"_id": "62ee54c0eeb69db0a0a793f8",
+		"name": "TUI BLUE Grand Azur",
+		"type": "Hotel",
+		"city": "Muğla",
+		"address": "Marmaris",
+		"distance": "60 km from Muğla City Center",
+		"photos": [],
+		"star": "All",
+		"title": "All Inclusive Hotel",
+		"desc": "TUI BLUE Grand Azur welcomes those who want to spend a stylish and fun-filled holiday in Marmaris.",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 1800,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 1800,
+		"featured": false,
+		"__v": 0
+	},
+	{
+		"_id": "62ee5514eeb69db0a0a793fa",
+		"name": "Grand Yazıcı Club Turban Thermal Hotel",
+		"type": "Hotel",
+		"city": "Muğla",
+		"address": "Marmaris",
+		"distance": "70 km from Muğla City Center",
+		"photos": [],
+		"star": "Ultra",
+		"title": "Ultra All Inclusive Hotel",
+		"desc": "The best place for holidays",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 2200,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 2200,
+		"featured": false,
+		"__v": 0
+	},
+	{
+		"_id": "62ee5552eeb69db0a0a793fc",
+		"name": "Kefaluka Resort",
+		"type": "Hotel",
+		"city": "Muğla",
+		"address": "Bodrum",
+		"distance": "80 km from Muğla City Center",
+		"photos": [],
+		"star": "Ultra",
+		"title": "Ultra All Inclusive Hotel",
+		"desc": "The best place for holidays",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 2300,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 2300,
+		"featured": false,
+		"__v": 0
+	},
+	{
+		"_id": "62ee55d4eeb69db0a0a793ff",
+		"name": "Vogue Hotel Supreme Bodrum",
+		"type": "Hotel",
+		"city": "Muğla",
+		"address": "Bodrum",
+		"distance": "100 km from Muğla City Center",
+		"photos": [],
+		"star": "Ultra",
+		"title": "Ultra All Inclusive Hotel",
+		"desc": "The best place for holidays",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 12300,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 12300,
+		"featured": true,
+		"__v": 0
+	},
+	{
+		"_id": "62ee5617eeb69db0a0a79401",
+		"name": "Titanic Deluxe Bodrum",
+		"type": "Hotel",
+		"city": "Muğla",
+		"address": "Bodrum",
+		"distance": "100 km from Muğla City Center",
+		"photos": [],
+		"star": "Ultra",
+		"title": "Ultra All Inclusive Hotel",
+		"desc": "The best place for holidays",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 8300,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 8300,
+		"featured": false,
+		"__v": 0
+	},
+	{
+		"_id": "62ee564beeb69db0a0a79403",
+		"name": "Rixos Premium Bodrum",
+		"type": "Hotel",
+		"city": "Muğla",
+		"address": "Bodrum",
+		"distance": "100 km from Muğla City Center",
+		"photos": [],
+		"star": "Ultra",
+		"title": "Ultra All Inclusive Hotel",
+		"desc": "The best place for holidays",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 6500,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 6500,
+		"featured": true,
+		"__v": 0
+	},
+	{
+		"_id": "62ee5671eeb69db0a0a79405",
+		"name": "Voyage Torba Private",
+		"type": "Hotel",
+		"city": "Muğla",
+		"address": "Bodrum",
+		"distance": "100 km from Muğla City Center",
+		"photos": [],
+		"star": "Ultra",
+		"title": "Ultra All Inclusive Hotel",
+		"desc": "The best place for holidays",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 6000,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 6000,
+		"featured": false,
+		"__v": 0
+	},
+	{
+		"_id": "62ee56c1eeb69db0a0a79407",
+		"name": "Caja by Maxx Royal",
+		"type": "Hotel",
+		"city": "Muğla",
+		"address": "Bodrum",
+		"distance": "100 km from Muğla City Center",
+		"photos": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 5000,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony"
+			}
+		],
+		"star": "Breakfast",
+		"title": "Breakfast Inclusive Hotel",
+		"desc": "The best place for holidays",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 5000,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 5000,
+		"featured": false,
+		"__v": 0
+	},
+	{
+		"_id": "62ee571aeeb69db0a0a79409",
+		"name": "Zigana Resort Alaçatı",
+		"type": "Hotel",
+		"city": "İzmir",
+		"address": "Alaçatı",
+		"distance": "70 km from İzmir City Center",
+		"photos": [],
+		"star": "Breakfast",
+		"title": "Breakfast Inclusive Hotel",
+		"desc": "The best place for holidays",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 1700,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 1700,
+		"featured": false,
+		"__v": 0
+	},
+	{
+		"_id": "62ee576eeeb69db0a0a7940b",
+		"name": "Ilıca Spa&Thermal Resort Hotel",
+		"type": "Hotel",
+		"city": "İzmir",
+		"address": "Alaçatı",
+		"distance": "90 km from İzmir City Center",
+		"photos": [],
+		"star": "Breakfast",
+		"title": "Breakfast Inclusive Hotel",
+		"desc": "The best place for holidays",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 960,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 960,
+		"featured": false,
+		"__v": 0
+	},
+	{
+		"_id": "62ee57a3eeb69db0a0a7940d",
+		"name": "Cocos The Club Solto Hotel",
+		"type": "Hotel",
+		"city": "İzmir",
+		"address": "Alaçatı",
+		"distance": "90 km from İzmir City Center",
+		"photos": [],
+		"star": "Breakfast",
+		"title": "Breakfast Inclusive Hotel",
+		"desc": "The best place for holidays",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 2960,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 2960,
+		"featured": false,
+		"__v": 0
+	},
+	{
+		"_id": "62ee57f3eeb69db0a0a7940f",
+		"name": "Monreve Alaçatı",
+		"type": "Hotel",
+		"city": "İzmir",
+		"address": "Alaçatı",
+		"distance": "90 km from İzmir City Center",
+		"photos": [],
+		"star": "Breakfast",
+		"title": "Breakfast Inclusive Hotel",
+		"desc": "Adults Only",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 1500,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 1500,
+		"featured": false,
+		"__v": 0
+	},
+	{
+		"_id": "62ee582deeb69db0a0a79411",
+		"name": "Club Marvy",
+		"type": "Hotel",
+		"city": "İzmir",
+		"address": "Özdere",
+		"distance": "90 km from İzmir City Center",
+		"photos": [],
+		"star": "Breakfast",
+		"title": "Breakfast Inclusive Hotel",
+		"desc": "The best place for Holiday",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 11500,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 11500,
+		"featured": false,
+		"__v": 0
+	},
+	{
+		"_id": "62ee586feeb69db0a0a79413",
+		"name": "Pırıl Hotel Thermal & Beauty Spa",
+		"type": "Hotel",
+		"city": "İzmir",
+		"address": "Çeşme",
+		"distance": "70 km from İzmir City Center",
+		"photos": [],
+		"star": "All",
+		"title": "All Inclusive Hotel",
+		"desc": "The best place for Holiday",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 3200,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 3200,
+		"featured": false,
+		"__v": 0
+	},
+	{
+		"_id": "62ee8b52ae38efff43249383",
+		"name": "Ephesia Holiday Beach Club",
+		"type": "Hotel",
+		"city": "Aydın",
+		"address": "Kuşadası",
+		"distance": "75 km from Aydın City Center",
+		"photos": [],
+		"star": "All",
+		"title": "All Inclusive Hotel",
+		"desc": "The best place for Holiday",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 970,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 970,
+		"featured": false,
+		"__v": 0
+	},
+	{
+		"_id": "62ee8b75ae38efff43249385",
+		"name": "Pine Bay Holiday Resort Hotel",
+		"type": "Hotel",
+		"city": "Aydın",
+		"address": "Kuşadası",
+		"distance": "75 km from Aydın City Center",
+		"photos": [],
+		"star": "All",
+		"title": "All Inclusive Hotel",
+		"desc": "The best place for Holiday",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 920,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 920,
+		"featured": false,
+		"__v": 0
+	},
+	{
+		"_id": "62ee8b8bae38efff43249387",
+		"name": "Ramada Resort By Wyndham Kuşadası & Golf",
+		"type": "Hotel",
+		"city": "Aydın",
+		"address": "Kuşadası",
+		"distance": "60 km from Aydın City Center",
+		"photos": [],
+		"star": "All",
+		"title": "All Inclusive Hotel",
+		"desc": "The best place for Holiday",
+		"rooms": [
+			{
+				"roomTitle": "Standart Room",
+				"price": 920,
+				"maxPeople": 2,
+				"desc": "King size bed, 1 bathroom, balcony",
+				"roomNumbers": [
+					{
+						"number1": 301
+					},
+					{
+						"number2": 302
+					}
+				]
+			}
+		],
+		"cheapestPrice": 920,
+		"featured": false,
+		"__v": 0
+	}
+]
